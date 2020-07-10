@@ -1,3 +1,3 @@
-# Raul Gonzalez
+# Hey 👋🏼
 
-Hi, I'm Raul—a senior software engineer @gbmcode 
+Hi, I'm Raul—a senior software engineer at GBM who is passionate about backend technologies.
