@@ -1,1 +1,3 @@
-# Raul Gonzalez - @ragore09
+# Raul Gonzalez
+
+Hi, I'm Raul—a senior software engineer @gbmcode 
