@@ -1,3 +1,3 @@
 # Hey 👋🏼
 
-Hi, I'm Raul—a senior software engineer at GBM who is passionate about backend technologies.
+Hi, I'm Raul—a software engineer who is passionate about backend technologies.
